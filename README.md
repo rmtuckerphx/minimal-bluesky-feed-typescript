@@ -82,3 +82,11 @@ Answer the prompts to link the feed to your account. Feel free to accept the def
 ```sh
 $ npm run unpublishFeed
 ```
+
+## Links
+- [Bluesky Developer Guide](https://github.com/rmtuckerphx/bluesky-developer-guide)
+- [Video: Developer Quick Start to Bluesky, AT Protocol and Jetstream](https://www.youtube.com/watch?v=DYc9enmwu5Y)
+- [AT Proto Browser](https://atproto-browser.vercel.app)
+- [GitHub: bluesky-social/feed-generator (TypeScript)](https://github.com/bluesky-social/feed-generator/blob/c14c54bd65eb2ea638e0be4303a4b1af53a211a6/src/well-known.ts)
+- [GitHub: MarshalX/bluesky-feed-generator (Python)](https://github.com/MarshalX/bluesky-feed-generator/blob/main/server/app.py)
+- [Bluesky Docs: getFeedSkeleton](https://docs.bsky.app/docs/api/app-bsky-feed-get-feed-skeleton)
