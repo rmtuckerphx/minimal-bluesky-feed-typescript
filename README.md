@@ -84,6 +84,7 @@ $ npm run unpublishFeed
 ```
 
 ## Links
+- [Video: Absolute Minimum Bluesky Feed Generator using TypeScript](https://www.youtube.com/watch?v=iRIcPKS-C1U)
 - [Bluesky Developer Guide](https://github.com/rmtuckerphx/bluesky-developer-guide)
 - [Video: Developer Quick Start to Bluesky, AT Protocol and Jetstream](https://www.youtube.com/watch?v=DYc9enmwu5Y)
 - [AT Proto Browser](https://atproto-browser.vercel.app)
