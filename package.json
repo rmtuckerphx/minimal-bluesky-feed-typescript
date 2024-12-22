@@ -1,0 +1,30 @@
+{
+  "name": "minimal-bluesky-feed-typescript",
+  "version": "1.0.0",
+  "description": "Minimal atproto feed generator with a static list of post URIs.",
+  "main": "index.js",
+  "scripts": {
+    "publishFeed": "ts-node scripts/publishFeedGen.ts",
+    "unpublishFeed": "ts-node scripts/unpublishFeedGen.ts",
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@atproto/api": "^0.13.22",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.2",
+    "inquirer": "^12.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">= 18"
+  }
+}
